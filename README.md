@@ -1,6 +1,6 @@
 # trading-view-xsp
 
-> A Vue.js project    K线
+> A Vue.js project   K线
 
 ## Build Setup
 
