@@ -8,7 +8,7 @@
 
 ### 效果展示
 
-![image](https://github.com/xushanpei/Vue-tradingview/blob/master/src/assets/td.png)
+> 预览地址: [https://xushanpei.github.io/Vue-tradingview](https://xushanpei.github.io/Vue-tradingview)
 
 
 ## 如何使用
