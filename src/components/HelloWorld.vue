@@ -576,11 +576,20 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-li {
+/* li {
   display: inline-block;
   margin: 0 10px;
-}
+} */
 a {
   color: #42b983;
+}
+#chart_container{
+    width: 80% !important;
+    position: absolute;
+    top:0;
+    left:0;
+    bottom: 0;
+    right:0;
+    margin:auto
 }
 </style>
