@@ -7,22 +7,22 @@
 
 ## 如何使用
 
-``` bash
-# 依赖下载
+
+### 依赖下载
 npm install 
 
 或者
 
 yarn
 
-# 启动
+### 启动
 npm run dev
 
 或者
 
 yarn start
 
-## 效果展示
+### 效果展示
 
-![image](https://github.com/xushanpei/Vue-tradingview/blob/master/src/assets/td.png)
+![image]https://github.com/xushanpei/Vue-tradingview/blob/master/src/assets/td.png)
 
