@@ -24,5 +24,5 @@ yarn start
 
 ### 效果展示
 
-![image]https://github.com/xushanpei/Vue-tradingview/blob/master/src/assets/td.png)
+![image](https://github.com/xushanpei/Vue-tradingview/tree/master/src/assets/td.png)
 
