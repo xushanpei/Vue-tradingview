@@ -23,5 +23,6 @@ npm run dev
 yarn start
 
 ## 效果展示
-![](./src/assets/td.png)
+
+![image](https://github.com/xushanpei/Vue-tradingview/blob/master/src/assets/td.png)
 
