@@ -1,30 +1,17 @@
-# trading-view-xsp
+# tradingview
 
-> A Vue.js project   K线
+> [tradingview 官网](https://www.tradingview.com/)
+> [tradingview 中文文档](https://b.aitrade.ga/books/tradingview/)
 
-## Build Setup
+## 如何使用
 
 ``` bash
-# install dependencies
-npm install
+# 依赖下载
+npm install 
+或者
+yarn
 
-# serve with hot reload at localhost:8080
+# 启动
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+或者
+yarn start

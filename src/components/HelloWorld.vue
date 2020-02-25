@@ -530,6 +530,35 @@
                          high:44.5,
                          low:42.3,
                          volume:45000
+                     },
+                     {
+                         time:1508413600000,
+                         close:40.1,
+                         open:38.0,
+                         high:40.0,
+                         low:40.4,
+                         volume:10000
+                     }, {
+                         time:1508317200000,
+                         close:43.4,
+                         open:42.9,
+                         high:44.1,
+                         low:42.1,
+                         volume:18500
+                     }, {
+                         time:1508320800000,
+                         close:44.3,
+                         open:43.7,
+                         high:44.8,
+                         low:42.8,
+                         volume:24000
+                     }, {
+                         time:1508324400000,
+                         close:42.8,
+                         open:44.5,
+                         high:44.5,
+                         low:42.3,
+                         volume:45000
                      }
                 ]
             }
